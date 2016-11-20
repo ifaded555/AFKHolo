@@ -1,0 +1,8 @@
+permission: afk.use
+# Use %player% for player's name
+afk_hologram: "&c&l%player% &fis AFK"
+
+afk_message: "&c&l%player% &fis AFK"
+come_back_message: "&c&l%player% &fis no longer AFK"
+move_in_afk_message: "You are AFK, type &c&l/afk"
+permission_message: "&cYou don't have permission to use this command"

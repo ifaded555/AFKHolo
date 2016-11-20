@@ -1,0 +1,8 @@
+name: AFKHolo
+author: iFaded_
+version: 0.1
+main: cz.Faded.AFKHolo.Main
+
+commands:
+ afk:
+  description: Marks player as AFK
